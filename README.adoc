@@ -66,3 +66,9 @@ asciidoc:
   attributes:
     user: 'User X'
 ----
+
+
+Package for Use with Antora
+If you need to package the UI so you can use it to generate the documentation site locally, run the following command:
+
+$ gulp bundle
